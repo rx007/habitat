@@ -59,7 +59,7 @@
     "rxjs": "5.0.1",
     "uuid": "^3.0.1",
     "whatwg-fetch": "^2.0.3",
-    "zone.js": "^0.8.4"
+    "zone.js": "^0.11.4"
   },
   "devDependencies": {
     "@types/jasmine": "2.5.36",
