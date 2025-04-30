@@ -14,7 +14,7 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw]
 gem 'middleman', '~> 4.1'
 gem 'middleman-autoprefixer'
 gem 'middleman-livereload'
-gem 'middleman-s3_sync'
+gem 'middleman-s3_sync', '>= 4.5.0'
 gem 'middleman-sprockets', '~> 4.0.0.rc.1'
 gem 'middleman-blog', '~> 4.0'
 gem 'middleman-syntax'
